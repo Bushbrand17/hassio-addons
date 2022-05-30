@@ -1,6 +1,7 @@
 {
   "name": "snapcast-server",
   "init": "false",
+  "host_pid": "true",
   "version": "0.25",
   "slug": "snapcastserver",
   "description": "Snapcast Server",
