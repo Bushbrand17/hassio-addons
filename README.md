@@ -1,3 +1,7 @@
+# Fork of Almostserious HASS.IO Repository
+The goal is to resolve the error:
+s6-overlay-suexec: fatal: can only run as pid 1
+
 # Almostserious `HASS.IO` Repository
 Hey!
 This is my Home Assistant's _Supervisor_ add-ons repository.
